@@ -1,6 +1,6 @@
 <?php
 /*
-    Candy is a simple but complete MediaWiki skin.
+    Candy is a MediaWiki skin that can be used as your VERY own fairy tale resort on an URL!
 
     Copyright (c) 2013 Newman2 <pyronewman2@gmail.com>
 
