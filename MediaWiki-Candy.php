@@ -38,7 +38,7 @@ $wgAutoloadClasses['SkinCandy']     = dirname(__FILE__).'/Candy.skin.php';
 $wgAutoloadClasses['CandyRenderer'] = dirname(__FILE__).'/Candy.renderer.php';
 $wgExtensionMessagesFiles['Candy']  = dirname(__FILE__).'/Candy.i18n.php';
 
-$wgResourceModules['skins.billabong'] = array
+$wgResourceModules['skins.candy'] = array
 (
     'styles' => array
     (
