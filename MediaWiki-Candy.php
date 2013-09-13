@@ -42,8 +42,8 @@ $wgResourceModules['skins.candy'] = array
 (
     'styles' => array
     (
-        'Billabong/assets/css/MediaWiki.css' => array('media' => 'screen')
-    ,   'Billabong/assets/css/Candy.css' => array('media' => 'screen')
+        'Candy/assets/css/MediaWiki.css' => array('media' => 'screen')
+    ,   'Candy/assets/css/Candy.css' => array('media' => 'screen')
     )
 ,   'remoteBasePath' => &$GLOBALS['wgStylePath']
 ,   'localBasePath'  => &$GLOBALS['wgStyleDirectory']
