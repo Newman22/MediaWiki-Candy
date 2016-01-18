@@ -1,6 +1,6 @@
 <?php
 /*
-    Billabong is a MediaWiki skin that can be used as your VERY own fairy tale resort on an URL!
+    Candy is a MediaWiki skin that can be used as your VERY own fairy tale resort on an URL!
 
     Copyright (c) 2013 Newman22 <pyronewman2@gmail.com>
 
