@@ -40,7 +40,7 @@ class SkinCandy extends SkinTemplate
     }
 }
 
-class BillabongTemplate extends BaseTemplate
+class CandyTemplate extends BaseTemplate
 {
     public function execute()
     {
