@@ -1,0 +1,48 @@
+{
+	"name": "Candy",
+	"author": [
+		"Pyro Newman",
+		"..."
+	],
+	"url": "https://github.com/Newman22/MediaWiki-Candy",
+	"descriptionmsg": "candy-desc",
+	"namemsg": "skinname-candy",
+	"license-name": "GPL-2.0+",
+	"type": "skin",
+	"requires": {
+		"MediaWiki": ">= 1.25.0"
+	},
+	"ValidSkinNames": {
+		"candy": "Candy"
+	},
+	"SkinOOUIThemes": {
+		"candy": "Apex"
+	},
+	"MessagesDirs": {
+		"Candy": [
+			"i18n"
+		]
+	},
+	"ResourceModules": {
+		"skins.candy.styles": {
+			"position": "top",
+			"styles": {
+				"main.css": {
+					"media": "screen"
+				}
+			}
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteSkinPath": "Candy"
+	},
+	"ResourceModuleSkinStyles": {
+		"candy": {
+			"+mediawiki.action.view.redirectPage": "skinStyles/mediawiki.action.view.redirectPage.css",
+			"+mediawiki.special.preferences.styles": "skinStyles/mediawiki.special.preferences.styles.less",
+			"+mediawiki.notification": "skinStyles/mediawiki.notification.less"
+		}
+	},
+	"manifest_version": 1
+}
