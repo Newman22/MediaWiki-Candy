@@ -34,9 +34,9 @@ $wgExtensionCredits['skin'][] = array
 
 $wgValidSkinNames['candy'] = 'Candy';
 
-$wgAutoloadClasses['SkinCandy']     = dirname(__FILE__).'/Candy.skin.php';
-$wgAutoloadClasses['CandyRenderer'] = dirname(__FILE__).'/Candy.renderer.php';
-$wgExtensionMessagesFiles['Candy']  = dirname(__FILE__).'/Candy.i18n.php';
+$wgAutoloadClasses['SkinCandy']     = dirname(__FILE__).'/MediaWiki-Candy.skin.php';
+$wgAutoloadClasses['CandyRenderer'] = dirname(__FILE__).'/MediaWiki-Candy.renderer.php';
+$wgExtensionMessagesFiles['Candy']  = dirname(__FILE__).'/MediaWiki-Candy.i18n.php';
 
 $wgResourceModules['skins.candy'] = array
 (
