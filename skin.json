@@ -37,6 +37,10 @@
 		"localBasePath": "",
 		"remoteSkinPath": "Candy"
 	},
+	"AutoloadClasses": {
+		"SkinCandy": "SkinCandy.php",
+		"CandyTemplate": "CandyTemplate.php"
+	},
 	"ResourceModuleSkinStyles": {
 		"candy": {
 			"+mediawiki.action.view.redirectPage": "skinStyles/mediawiki.action.view.redirectPage.css",
