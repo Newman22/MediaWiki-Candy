@@ -9,7 +9,8 @@ NOTE: Make sure to delete the i18n_old file and i18n1 folder when installing Can
 
 Screenshot
 ==============
-![Alt text](https://penguinicewikis.com/images_main/9/97/Screenshot_2025-04-14_175241.jpg)
+![image](https://github.com/user-attachments/assets/a600524b-4c60-4b95-99ec-dc39882f81a4)
+)
 
 Installation
 ===============
