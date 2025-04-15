@@ -9,7 +9,8 @@ NOTE: Make sure to delete the i18n_old file and i18n1 folder when installing Can
 
 Screenshot
 ==============
-(https://penguinicewikis.com/images_main/9/97/Screenshot_2025-04-14_175241.jpg)
+![Alt text](https://penguinicewikis.com/images_main/9/97/Screenshot_2025-04-14_175241.jpg)
+
 Installation
 ===============
 Download the latest snapshot and extract it to your skins directory. Then include it in your [LocalSettings.php](https://www.mediawiki.org/wiki/Manual:LocalSettings.php) file as in the following example:
