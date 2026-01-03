@@ -22,4 +22,9 @@
 	"articlepage": "View content page",
 	"userpage": "View user page",
 	"projectpage": "View project page"
+	"candy-jumptonavigation": "Jump to navigation",
+	"candy-jumptosearch": "Jump to search",
+	"candy-more-actions": "More",
+	"candy-cactions-label": "Page actions",
+	"cactions-mobile": "Page actions"
 }
