@@ -42,7 +42,7 @@
 		"CandyTemplate": "CandyTemplate.php"
 	},
 	"ResourceModuleSkinStyles": {
-		"candy 0.03": {
+		"candy": {
 			"+mediawiki.action.view.redirectPage": "skinStyles/mediawiki.action.view.redirectPage.css",
 			"+mediawiki.special.preferences.styles": "skinStyles/mediawiki.special.preferences.styles.less",
 			"+mediawiki.notification": "skinStyles/mediawiki.notification.less"
