@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"skinname-candy": "Candy",
+	"candy-desc": "Una apariencia rosa/fucsia de MediaWiki al estilo de MonoBook.",
+	"candy.css": "/* El CSS colocado en esta página afectará a los usuarios que usen la apariencia \"Candy\" */",
+	"candy.js": "/* El código JavaScript que se ponga aquí será cargado por los usuarios de la apariencia Candy */",
+	"candy-jumptotop": "volver al principio",
+	"candy-jumptopersonal": "herramientas de usuario",
+	"candy-jumptonavigation": "Ir a la navegación",
+	"candy-jumptosearch": "Ir a la búsqueda",
+	"candy-more-actions": "Más",
+	"candy-cactions-label": "Acciones de página",
+	"candy-notifications-link": "Notificaciones ($1)",
+	"candy-notifications-link-none": "Notificaciones",
+	"candy-view-history": "Historial",
+	"candy-action-undelete": "Restaurar {{PLURAL:$1|una edición|$1 ediciones}}"
+}
