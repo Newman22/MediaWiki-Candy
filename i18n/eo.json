@@ -3,6 +3,7 @@
 		"authors": []
 	},
 	"skinname-candy": "Drakofrukto",
-	"candy.css": "/* La jena CSS influos la paĝaspekton por uzantoj de la Libreja temo. */",
-	"candy.js": "/* La jena Ĝavaskripto ŝargiĝos por uzantoj de la Libreja temo. */"
+	"candy.css": "/* La jena CSS influos la paĝaspekton por uzantoj de la Drakofrukta temo. */",
+	"candy.js": "/* La jena Ĝavaskripto ŝargiĝos por uzantoj de la Drakofrukta temo. */",
+	"candy-desc": "Rozkolora/fuksia temo en la stilo de la temo Librejo. Uzata en Pingveno-Glaciaj Vikioj."
 }
