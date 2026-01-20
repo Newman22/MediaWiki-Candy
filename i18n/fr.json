@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"skinname-candy": "Candy",
+	"candy-desc": "Un thème rose/fuchsia de style MonoBook. Utilisé sur les wikis de Pinglace.",
+	"candy.css": "/* Tout CSS placé ici sera chargé avec les pages accédées par les utilisateurs de l’habillage Candy */",
+	"candy.js": "/* Tout code JavaScript placé ici sera chargé avec les pages accédées par les utilisateurs de l’habillage Candy */",
+	"candy-jumptotop": "retour au début",
+	"candy-jumptopersonal": "outils utilisateur",
+	"candy-jumptonavigation": "Aller à la navigation",
+	"candy-jumptosearch": "Aller à la recherche",
+	"candy-more-actions": "Plus",
+	"cactions-mobile": "Actions de la page",
+	"candy-cactions-label": "Actions de la page",
+	"candy-notifications-link": "Notifications ($1)",
+	"candy-notifications-link-none": "Notifications",
+	"candy-view-history": "Historique",
+	"candy-action-undelete": "Restaurer {{PLURAL:$1|une modification|$1 modifications}}"
+}
