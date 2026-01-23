@@ -5,6 +5,11 @@ Candy is a MediaWiki skin that can be used as your VERY own fairy tale resort on
 
 A pink variation of Referata's Tufte.
 
+Screenshot
+==============
+![image](https://raw.githubusercontent.com/Newman22/MediaWiki-Candy/refs/heads/master/Screenshot%202026-01-23%20093229.png)
+)
+
 Installation
 ===============
 Download the latest snapshot and extract it to your skins directory. Then include it in your [LocalSettings.php](https://www.mediawiki.org/wiki/Manual:LocalSettings.php) file as in the following example:
