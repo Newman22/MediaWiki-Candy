@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"skinname-candy": "{{optional}}",
+	"candy-desc": "{{desc|what=skin|name=Candy|url=https://github.com/Newman22/MediaWiki-Candy}}",
+	"candy.css": "{{optional}}\nCSS applied to users using Candy skin.",
+	"candy.js": "{{optional}}\nJS for users using Candy skin."
+}
