@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"skinname-candy": "Candy",
+	"candy-desc": "Ein rosafarbenes/fuchsiafarbenes Benutzeroberfläche im MonoBook-Stil.",
+	"candy.css": "/* Das folgende CSS wird für Benutzer der Benutzeroberfläche Candy geladen */",
+	"candy.js": "/* Das folgende JavaScript wird für Benutzer der Benutzeroberfläche Candy geladen. */",
+	"candy-jumptotop": "Zurück nach oben",
+	"candy-jumptopersonal": "Benutzerwerkzeuge",
+	"candy-jumptonavigation": "Zur Navigation springen",
+	"candy-jumptosearch": "Zur Suche springen",
+	"candy-more-actions": "Mehr",
+	"cactions-mobile": "Seitenaktionen",
+	"candy-cactions-label": "Seitenaktionen",
+	"candy-notifications-link": "Benachrichtigungen ($1)",
+	"candy-notifications-link-none": "Benachrichtigungen",
+	"candy-view-history": "Versionsgeschichte",
+	"candy-action-undelete": "{{PLURAL:$1|1 Version|$1 Versionen}} wiederherstellen"
+}
