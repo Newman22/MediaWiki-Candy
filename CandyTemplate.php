@@ -30,7 +30,7 @@
 class CandyTemplate extends BaseTemplate {
 
 	/**
-	 * Template filter callback for MonoBook skin.
+	 * Template filter callback for Candy skin.
 	 * Takes an associative array of data set from a SkinTemplate-based
 	 * class, and a wrapper for MediaWiki's localization database, and
 	 * outputs a formatted page.
