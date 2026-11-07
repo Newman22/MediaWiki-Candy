@@ -127,8 +127,6 @@ class CandyTemplate extends BaseTemplate {
 		$html .= $this->getSimpleFooter();
 		$html .= Html::closeElement( 'div' );
 
-		$html .= $this->getTrail();
-
 		$html .= Html::closeElement( 'body' );
 		$html .= Html::closeElement( 'html' );
 
@@ -317,7 +315,7 @@ class CandyTemplate extends BaseTemplate {
 			$languages !== [] ||
 			// Check getAfterPortlet to make sure the languages are shown
 			// when empty but something has been injected in the portal. (T252841)
-			$this->getAfterPortlet( $name )
+			$this->getSkin()->getAfterPortlet( $name )
 		) {
 			$html .= $this->getBox( $name, $languages, 'otherlanguages' );
 		}
@@ -447,7 +445,7 @@ class CandyTemplate extends BaseTemplate {
 			Html::rawElement( 'h3', $labelOptions, $msgString ) .
 			Html::rawElement( 'div', $bodyDivOptions,
 				$contentText .
-				$this->getAfterPortlet( $name )
+				$this->getSkin()->getAfterPortlet( $name )
 			)
 		);
 
