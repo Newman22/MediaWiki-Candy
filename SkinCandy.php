@@ -1,4 +1,7 @@
 <?php
+
+use MediaWiki\MediaWikiServices;
+
 /**
  * Candy is a MediaWiki skin that can be used as your VERY own fairy tale resort on an URL!
  *
@@ -38,7 +41,7 @@ class SkinCandy extends SkinTemplate {
 	 * @return bool
 	 */
 	public function isResponsive() {
-		return $this->getUser()->getOption( 'candy-responsive' );
+		$userOptionsLookup = MediaWikiServices::getInstance()->getUserOptionsLookup()->getOption( $this->getUser(), 'candy-responsive' );
 	}
 
 	/**
@@ -76,3 +79,4 @@ class SkinCandy extends SkinTemplate {
 			'hide-if' => [ '!==', 'wpskin', 'candy' ],
 		];
 	}
+}
