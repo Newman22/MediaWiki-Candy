@@ -1171,7 +1171,7 @@ div#userloginForm .captcha {
 	border: 1px solid #aaa;
 	border-bottom: none;
 }
-* > html #p-cactions li.selected a { border-color: #fabd23; }
+* > html #p-cactions li.selected a { border-color: #ff6699; }
 /* footer icons need a fixed width */
 * > html #f-poweredbyico,
 * > html #f-copyrightico { width: 88px; }
@@ -1608,10 +1608,10 @@ table.wikitable {
 }
 
 table.wikitable th, table.wikitable td {
-	border: 1px solid #5577bb;
+	border: 1px solid #f14d89;
 	padding: 0.2em;
 }
 
 table.wikitable th {
-	background: #ffee88;
+	background: #ff00ff;
 }
